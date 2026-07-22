@@ -59,7 +59,6 @@ Star Schema data warehouse in SQL Server, built with SSIS pipelines from an OLTP
 **📈 Monitoring System – Docker Compose**
 Multi-container observability stack: PostgreSQL + Prometheus (via PostgreSQL Exporter) + Grafana dashboards for real-time system health monitoring.
 
-> *(Add the repo links here once each project is pushed, e.g. `[View Repo](https://github.com/mostafanayef74/repo-name)`)*
 
 ---
 
