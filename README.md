@@ -60,12 +60,4 @@ Star Schema data warehouse in SQL Server, built with SSIS pipelines from an OLTP
 Multi-container observability stack: PostgreSQL + Prometheus (via PostgreSQL Exporter) + Grafana dashboards for real-time system health monitoring.
 
 
----
-
-### 📌 Pinned Repositories
-
-Check out my [repositories tab](https://github.com/mostafanayef74?tab=repositories) for hands-on data pipeline work, including **DE** (TalaaPat application pipeline) and **data-cleaner-pipeline**.
-
----
-
 <p align="center"><i>Open to Data Engineering opportunities — feel free to connect!</i></p>
