@@ -52,7 +52,9 @@ I'm a Data Engineer based in Cairo, Egypt, focused on building end-to-end **ETL/
 
 **🔐 Cybersecurity Threat Intelligence Platform** (Graduation Project)
 End-to-end AWS pipeline (Bronze → Silver → Gold) ingesting CVE/CVSS data from NVD, EPSS, and CISA KEV APIs. AWS Glue (PySpark) for ETL, Airflow for orchestration, and a Galaxy Schema warehouse powering a Power BI risk-scoring dashboard across 5,000 devices.
+
 [View Repo](https://github.com/mostafanayef74/Fraud-Detection-Data-Project)
+
 **📚 ETL & Data Warehousing – Gravity Books**
 Star Schema data warehouse in SQL Server, built with SSIS pipelines from an OLTP source — including bridge tables, surrogate keys, and a full date dimension.
 
